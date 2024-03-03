@@ -61,4 +61,3 @@ void loop()
         old_rot_speed = new_rot_speed;
     }
 }
-```
